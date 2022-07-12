@@ -1269,10 +1269,10 @@
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
 "@jupyter-notebook/application-extension@file:packages/application-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
-    "@jupyter-notebook/application" "^7.0.0-alpha.3"
-    "@jupyter-notebook/ui-components" "^7.0.0-alpha.3"
+    "@jupyter-notebook/application" "^7.0.0-alpha.4"
+    "@jupyter-notebook/ui-components" "^7.0.0-alpha.4"
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/apputils" "^4.0.0-alpha.10"
     "@jupyterlab/celltags" "^4.0.0-alpha.10"
@@ -1290,7 +1290,7 @@
     "@lumino/widgets" "^1.32.0"
 
 "@jupyter-notebook/application@file:packages/application":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/coreutils" "^6.0.0-alpha.10"
@@ -1305,7 +1305,7 @@
     "@lumino/widgets" "^1.32.0"
 
 "@jupyter-notebook/console-extension@file:packages/console-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/console" "^4.0.0-alpha.10"
@@ -1313,7 +1313,7 @@
     "@lumino/algorithm" "^1.9.1"
 
 "@jupyter-notebook/docmanager-extension@file:packages/docmanager-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/coreutils" "^6.0.0-alpha.10"
@@ -1323,26 +1323,26 @@
     "@lumino/algorithm" "^1.9.1"
 
 "@jupyter-notebook/documentsearch-extension@file:packages/documentsearch-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
-    "@jupyter-notebook/application" "^7.0.0-alpha.3"
+    "@jupyter-notebook/application" "^7.0.0-alpha.4"
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/documentsearch" "^4.0.0-alpha.10"
     "@lumino/widgets" "^1.32.0"
 
 "@jupyter-notebook/help-extension@file:packages/help-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
-    "@jupyter-notebook/ui-components" "^7.0.0-alpha.3"
+    "@jupyter-notebook/ui-components" "^7.0.0-alpha.4"
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/apputils" "^4.0.0-alpha.10"
     "@jupyterlab/mainmenu" "^4.0.0-alpha.10"
     "@jupyterlab/translation" "^4.0.0-alpha.10"
 
 "@jupyter-notebook/lab-extension@file:packages/lab-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
-    "@jupyter-notebook/application" "^7.0.0-alpha.3"
+    "@jupyter-notebook/application" "^7.0.0-alpha.4"
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/apputils" "^4.0.0-alpha.10"
     "@jupyterlab/coreutils" "^6.0.0-alpha.10"
@@ -1353,9 +1353,9 @@
     "@lumino/disposable" "^1.10.1"
 
 "@jupyter-notebook/notebook-extension@file:packages/notebook-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
-    "@jupyter-notebook/application" "^7.0.0-alpha.3"
+    "@jupyter-notebook/application" "^7.0.0-alpha.4"
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/apputils" "^4.0.0-alpha.10"
     "@jupyterlab/cells" "^4.0.0-alpha.10"
@@ -1367,7 +1367,7 @@
     "@lumino/widgets" "^1.32.0"
 
 "@jupyter-notebook/terminal-extension@file:packages/terminal-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/coreutils" "^6.0.0-alpha.10"
@@ -1375,9 +1375,9 @@
     "@lumino/algorithm" "^1.9.1"
 
 "@jupyter-notebook/tree-extension@file:packages/tree-extension":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
-    "@jupyter-notebook/application" "^7.0.0-alpha.3"
+    "@jupyter-notebook/application" "^7.0.0-alpha.4"
     "@jupyterlab/application" "^4.0.0-alpha.10"
     "@jupyterlab/apputils" "^4.0.0-alpha.10"
     "@jupyterlab/coreutils" "^6.0.0-alpha.10"
@@ -1394,7 +1394,7 @@
     "@lumino/widgets" "^1.32.0"
 
 "@jupyter-notebook/ui-components@file:packages/ui-components":
-  version "7.0.0-alpha.3"
+  version "7.0.0-alpha.4"
   dependencies:
     "@jupyterlab/ui-components" "^4.0.0-alpha.25"
     react "^17.0.1"
@@ -10170,9 +10170,9 @@ modify-values@^1.0.0:
   integrity sha512-xV2bxeN6F7oYjZWTe/YPAy6MN2M+sL4u/Rlm2AHCIVGfo2p1yGmBHQ6vHehl4bRTZBdHu3TSkWdYgkwpYzAGSw==
 
 moment@^2.24.0:
-  version "2.29.3"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.3.tgz#edd47411c322413999f7a5940d526de183c031f3"
-  integrity sha512-c6YRvhEo//6T2Jz/vVtYzqBzwvPT95JBQ+smCytzf7c50oMZRsR/a4w88aD34I+/QVSfnoAnSBFPJHItlOMJVw==
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
