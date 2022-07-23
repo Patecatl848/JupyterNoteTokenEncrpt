@@ -1,0 +1,13 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+Terser insecure use of regular expressions before v4.8.1 and v5.14.2 leads to ReDoS #16; dependabot/npm_and_yarn/terser-5.14.2 branch on Patecatl848/JupyterNoteTokenEncrpt.
+I am so new to this arena that I am having to break away from my Python study time...  I am going to join the comminity and be part of what may be perhaps a Bumpy ride
